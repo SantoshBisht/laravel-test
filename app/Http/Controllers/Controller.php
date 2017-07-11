@@ -11,3 +11,8 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
+public function rohit() {
+	
+ECHO 'TEST';	
+}
+?>
